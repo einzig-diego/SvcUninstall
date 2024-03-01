@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.exe.config
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.exe
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.pdb
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\obj\Debug\svcuninstall.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\obj\Debug\svcuninstall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\obj\Debug\svcuninstall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\obj\Debug\svcuninstall.exe
+C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\obj\Debug\svcuninstall.pdb

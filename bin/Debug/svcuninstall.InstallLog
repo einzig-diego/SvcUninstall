@@ -1,0 +1,5 @@
+﻿Assembly C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.exe wird deinstalliert.
+Betroffene Parameter:
+   assemblypath = C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.exe
+   logfile = C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.InstallLog
+Keine öffentlichen Installer mit dem RunInstallerAttribute.Yes-Attribut in der Assembly C:\Users\Admin\Downloads\vid\extension-showcase\svcuninstall\bin\Debug\svcuninstall.exe gefunden.
